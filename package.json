@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node": "^14.13.0",
+    "nodemon": "^2.0.4",
+    "shortid": "^2.2.15"
+  },
+  "name": "node-api1-project",
+  "description": "## Introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinJHealy/node-api1-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinJHealy/node-api1-project/issues"
+  },
+  "homepage": "https://github.com/AustinJHealy/node-api1-project#readme"
+}
